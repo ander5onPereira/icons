@@ -1,1 +1,19 @@
-<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 104 32"><defs><style>.cls-1{fill:#0f1418;}.cls-2,.cls-5{fill:#fff;}.cls-2{stroke:#171c20;}.cls-3{fill:url(#Gradiente_sem_nome_2);}.cls-4{fill:url(#Gradiente_sem_nome_3);}.cls-5{font-size:13.5px;font-family:Tahoma-Bold, Tahoma;font-weight:700;}</style><radialGradient id="Gradiente_sem_nome_2" cx="-111.23" cy="98.14" r="1" gradientTransform="matrix(1.14, 0, 0, -1.14, -396.59, -100.02)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient><linearGradient id="Gradiente_sem_nome_3" x1="52" y1="34" x2="52" y2="2" gradientTransform="matrix(1, 0, 0, -1, 0, 34)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#bbb" stop-opacity="0.1"/><stop offset="1" stop-opacity="0.1"/></linearGradient></defs><path class="cls-1" d="M99,0H31V32H99a5,5,0,0,0,5-5V5A5,5,0,0,0,99,0Z"/><path class="cls-2" d="M5,.5H30.5v31H5A4.49,4.49,0,0,1,.5,27V5A4.49,4.49,0,0,1,5,.5Z"/><path class="cls-3" d="M25.38,15.07l-6.46,6.47L25.38,28H18l-2.77-2.77-3.69-3.69L18,15.07ZM18,4,6,16l3.69,3.69L25.38,4Z"/><path class="cls-4" d="M99,0H5A5,5,0,0,0,0,5V27a5,5,0,0,0,5,5H99a5,5,0,0,0,5-5V5A5,5,0,0,0,99,0Z"/><path d="M23,16.05a3.51,3.51,0,0,0,3.72-2.73,2.43,2.43,0,0,0-3.32-.61A2.14,2.14,0,0,0,23,16.05Zm-5-12.91L11.22,6.85l1.55.82L19.48,4Zm-6.37,10.2,6.56,15,1.75,1.07L12.54,8.14l-1.75-.93-7,13.18,1.27.71,6-7.81A.27.27,0,0,1,11.56,13.34ZM23.28,16.9a2.68,2.68,0,0,1,0-4.74,2.88,2.88,0,0,1,4.31,2.37A2.88,2.88,0,0,1,23.28,16.9Zm2.17,2L27.89,26l-7.46,4.33-2.75-1.71L12.76,17.42,5.15,21.7l-2-1.14L10.49,6.67l7.43-4.11,2.32,1.25,2.35,6.85C18.05,13.16,20.33,19.5,25.45,18.88Z"/><text class="cls-5" transform="translate(46.46 22.18)">Expo</text></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+   <clipPath id="id0">
+    <rect x="9124.15" y="14425.2" width="2751.7" height="849.6"/>
+   </clipPath>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="Camada_1" x="9124.15" y="14425.21" width="2751.69" height="849.59" data-name="Camada 1" xlink:href="expo_Images\expo_ImgID1.png"/>
+  </g>
+ </g>
+</svg>
